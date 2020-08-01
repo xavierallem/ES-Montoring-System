@@ -9,4 +9,4 @@
 * Incase of any failure in working of the job, a fail safe method is triggered which sends log and alerts the Admin at reciver node
 
 
-> This project uses Arduino and Nodemcu to communicate through serial communication  to send the data 
+> This project uses Arduino and Nodemcu to communicate through serial communication  to send the data to Blynk through Nodemcu
